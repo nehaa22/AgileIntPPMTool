@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import ProjectItem from "./ProjectItem";
+// import ProjectItem from "./ProjectItem";
 import { PropTypes } from "prop-types";
 import { createProject } from "../../actions/projectActions";
 import classnames from "classnames";
